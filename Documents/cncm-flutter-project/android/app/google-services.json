@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370549607747",
+    "project_id": "speednotificationtest",
+    "storage_bucket": "speednotificationtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370549607747:android:87e5a41b6121e9e50433f6",
+        "android_client_info": {
+          "package_name": "com.example.cncm_flutter_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370549607747-ftp6v4fh61lbs1ljdrf1ssi3kglk4edo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvRFv7TnKSCKnD4TlVEv8U1nb1ED1Y2nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370549607747-ftp6v4fh61lbs1ljdrf1ssi3kglk4edo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1064 @@
+[33mcommit 4f71fbfa8739bcfd4eb2477815c6c6a5452478b1[m[33m ([m[1;36mHEAD -> [m[1;32mearning_new[m[33m)[m
+Author: kelkias <emanakelkias8@gmail.com>
+Date:   Tue Jun 14 16:25:59 2022 +0300
+
+    edit leterature contributer role
+
+[33mcommit 82f9d206b06e766cf1355dc36422c53816576af9[m
+Author: kelkias <emanakelkias8@gmail.com>
+Date:   Mon Jun 13 14:47:18 2022 +0300
+
+    edit
+
+[33mcommit 8be084848a86f42b754bbc067f80573902ed5658[m
+Author: kelkias <emanakelkias8@gmail.com>
+Date:   Mon Jun 13 13:58:43 2022 +0300
+
+    membership subscription payment
+
+[33mcommit 3161ce6cde264d5053cde796423baea9b3097425[m
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Sat May 21 11:11:43 2022 +0300
+
+    make the graph scrollable
+
+[33mcommit dd53efc31c79c188a92bae31d7a8eed72f978c91[m
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Mon May 16 17:10:28 2022 +0300
+
+    added the photograph asset adding form
+
+[33mcommit b5c94df4f31c2a4c858cd3600628a9430f2e2fde[m
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Mon May 16 14:20:07 2022 +0300
+
+    added the literature asset adding form
+
+[33mcommit f4954a0e611c1e1698e472b8fbc78b783bcfd6e3[m
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Sat May 14 11:51:55 2022 +0300
+
+    earning and asset block builders edited to only load the numbers
+
+[33mcommit dff9ac17428ae8cb37915addcf0332a8025477cb[m
+Author: elias <eliasey11@gmail.com>
+Date:   Fri May 13 16:54:47 2022 +0300
+
+    notification error fixes
+
+[33mcommit faa0915b39881bcf6c8791fb84345fbbd2af65e0[m
+Merge: e274f77 c7ad663
+Author: elias <eliasey11@gmail.com>
+Date:   Fri May 13 16:18:33 2022 +0300
+
+    Merge remote-tracking branch 'origin/notification_management' into asset_management
+
+[33mcommit e274f7748f635f268168c93f4a45987d1df7b03c[m
+Author: elias <eliasey11@gmail.com>
+Date:   Fri May 13 15:50:37 2022 +0300
+
+    asset add page logic added for most asset types
+
+[33mcommit c7ad66363f5fd99aa2046dcf86feb3f37ae2da20[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Fri May 13 15:46:38 2022 +0300
+
+    notification page edited
+
+[33mcommit e28ead7ca8b65347e5af1a86647ddb1e0ab75fa2[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Fri May 13 15:45:38 2022 +0300
+
+    notification page edited
+
+[33mcommit 2ec0b82885f5f3af829054f393699a6f85a0d9bf[m
+Author: elias <eliasey11@gmail.com>
+Date:   Fri May 13 13:34:23 2022 +0300
+
+    department id from bloc listener added to dialog and next page
+
+[33mcommit 5e8a1d921dbb539379a9005b56f3ff7e9f5f9a97[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Fri May 13 11:18:44 2022 +0300
+
+    notification page edited
+
+[33mcommit 4fdff8991a58d797e334c3edb6c930cf731eb648[m
+Merge: e5ecace 362d089
+Author: elias <eliasey11@gmail.com>
+Date:   Fri May 13 11:09:27 2022 +0300
+
+    Merge remote-tracking branch 'origin/earning_new' into earning_new
+    
+    # Conflicts:
+    #       lib/presentation/earning/bloc/earnings_bloc.dart
+    #       lib/presentation/earning/chartBloc/bloc/chart_bloc.dart
+
+[33mcommit e5ecace237037d4239cc81aa26f3a02242ef241e[m
+Merge: 4ec2f47 5ea1e99
+Author: elias <eliasey11@gmail.com>
+Date:   Fri May 13 11:03:53 2022 +0300
+
+    Merge branch 'asset_management' into earning_new
+    
+    # Conflicts:
+    #       lib/presentation/earning/bloc/earnings_bloc.dart
+    #       lib/presentation/earning/chartBloc/bloc/chart_bloc.dart
+
+[33mcommit 5ea1e99c2653df5f5a87f12b5f95a205135f394c[m
+Author: elias <eliasey11@gmail.com>
+Date:   Fri May 13 10:53:47 2022 +0300
+
+    code format changed in asset add
+
+[33mcommit 3bd247c3165dacf8076271eda101933300196fc9[m
+Author: elias <eliasey11@gmail.com>
+Date:   Fri May 13 10:40:11 2022 +0300
+
+    asset add is language and duration is added
+
+[33mcommit 362d089f86f6f8c4c90f62e37edc41961f3e6ff0[m
+Merge: d12707a 2fe86b4
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Fri May 13 10:16:27 2022 +0300
+
+    Merge remote-tracking branch 'origin/asset_management' into earning_new
+
+[33mcommit d12707aa837b78fa3380d8e86acbb1a89a6b1377[m
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Fri May 13 09:58:07 2022 +0300
+
+    earning page users name called from local storage
+
+[33mcommit 2fe86b49420fdda48ac35a21c0cbd4fdb829ae77[m
+Author: elias <eliasey11@gmail.com>
+Date:   Fri May 13 09:29:06 2022 +0300
+
+    track remove button is fixes
+
+[33mcommit 86da800ae68cdbdcc5587d28fd1593099216bfcf[m
+Merge: 7b82717 1d81249
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Fri May 13 09:11:19 2022 +0300
+
+    earning and chart bloc edited
+
+[33mcommit 7b8271788f7bf68d557967359976be22d7c31e9d[m
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Fri May 13 09:05:23 2022 +0300
+
+    login box overflow edited
+
+[33mcommit 1d8124903e9288d3af941ed34914093cef6bffc6[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Fri May 13 00:41:40 2022 +0300
+
+    bulk asset add is done
+
+[33mcommit 6640a8531e96c45919f838f74dad4168e299d70b[m
+Author: elias <eliasey11@gmail.com>
+Date:   Thu May 12 18:24:53 2022 +0300
+
+    merge confilict fixes
+
+[33mcommit c8a964e694c8c75efc888f1748efcb37cf41c9e2[m
+Merge: 881e31f a50263c
+Author: elias <eliasey11@gmail.com>
+Date:   Thu May 12 18:02:29 2022 +0300
+
+    Merge branch 'notification_management' into asset_management
+    
+    # Conflicts:
+    #       lib/data/services/notification_service.dart
+    #       lib/main.dart
+    #       lib/presentation/assets_manager/pages/AssetManagePage.dart
+    #       lib/presentation/homepage/pages/notification_page.dart
+    #       lib/presentation/homepage/pages/tab_home.dart
+    #       lib/presentation/notification_bloc/bloc/markallread_state.dart
+    #       lib/presentation/notification_bloc/bloc/markread_bloc.dart
+    #       lib/presentation/notification_bloc/bloc/notification_event.dart
+    #       lib/service_locator.dart
+    #       pubspec.yaml
+
+[33mcommit 881e31faee03249fa05bf5dd28058abe15c4659d[m
+Author: elias <eliasey11@gmail.com>
+Date:   Thu May 12 17:57:25 2022 +0300
+
+    bulk asset on the way
+
+[33mcommit 77d01da127ce2e49e3ac713e67d94baba8048dd5[m
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Thu May 12 17:10:09 2022 +0300
+
+    asset page route
+
+[33mcommit 285a99d0451694a73c401ece0be1988719f42b36[m
+Merge: 4bfaf37 e93bc20
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Thu May 12 16:26:26 2022 +0300
+
+    mearged
+
+[33mcommit 4bfaf3702a88989a6bec6fd3c53ef3ffd307478f[m
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Thu May 12 16:17:54 2022 +0300
+
+    Route to asset page
+
+[33mcommit e93bc20be4139190e9188305508efd310b32d7a1[m
+Author: elias <eliasey11@gmail.com>
+Date:   Thu May 12 16:03:14 2022 +0300
+
+    chart page is done
+
+[33mcommit a50263ca6bb1ec8ada01e7a60436abe2ba34f224[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Thu May 12 10:21:25 2022 +0300
+
+    notification page update
+
+[33mcommit 4ec2f471f1b65ddd720b0fa97c8b0b7f86d95421[m
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Thu May 12 09:44:47 2022 +0300
+
+    edited earning bloc
+
+[33mcommit 5f85cf53d5eea50ecc97fdcf2d034a6dc00b91ab[m
+Author: elias <eliasey11@gmail.com>
+Date:   Wed May 11 18:30:34 2022 +0300
+
+    bulk asset registration is added checking is not done
+
+[33mcommit b5551600a0e2480efc773ae6b61eccf2e7fab69b[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 11 18:02:02 2022 +0300
+
+    register bulk asset bloc consumer is added
+
+[33mcommit 889fb04538c2a46cc824d36c50ea5458e1b795ca[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 11 17:50:10 2022 +0300
+
+    asset register bloc added
+
+[33mcommit 0c6d78462b82f820c6007e4fb672c1858c652d87[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Wed May 11 17:47:36 2022 +0300
+
+    notificaiton edited
+
+[33mcommit 90c6e456384a0ba0908193992e748b1384201f58[m
+Merge: 9a09f35 d9bda8a
+Author: John21 <joguyjohna@gmail.com>
+Date:   Wed May 11 17:45:32 2022 +0300
+
+    Merge branch 'asset_management' into notification_management
+
+[33mcommit 7f6bcbb0bf1ce1d125b77795ddda59bdff638980[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 11 17:37:45 2022 +0300
+
+    earning page is edited,
+
+[33mcommit fa85a5755d4d13fb2cc9dde6f942bf46e16aad90[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 11 17:30:07 2022 +0300
+
+    notification bloc is eddited
+
+[33mcommit 477906707ae805a7f79fd35e7565dd9f0a0bbcae[m
+Merge: 87d9449 9a09f35
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 11 17:00:10 2022 +0300
+
+    Merge branch 'notification_management' into asset_management
+    
+    # Conflicts:
+    #       lib/service_locator.dart
+    #       pubspec.yaml
+
+[33mcommit 87d94493a07e5f526fabe11b8c72c7ccd4e4d790[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 11 16:57:29 2022 +0300
+
+    RegisterAssetBloc is added to the dependency injection
+
+[33mcommit 2506b12e1264fc176ba62403a5ffca0ea825cb95[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 11 16:52:22 2022 +0300
+
+    chart and earnings page merge conflict is fixed
+
+[33mcommit 0e9fc021e7b4de08dbdb9d83f462d033a0824c96[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 11 16:40:59 2022 +0300
+
+    mereget conflic is fixed
+
+[33mcommit 9d359799358e3287bed0166cc2ef01bb5bbcaed2[m
+Merge: 6ef9e3a 3f4829c
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 11 16:39:47 2022 +0300
+
+    Merge branch 'earning_new' into asset_management
+    
+    # Conflicts:
+    #       lib/main.dart
+    #       lib/service_locator.dart
+    #       pubspec.yaml
+
+[33mcommit 3f4829cd44b0bf6596ea42fd8bc0491f3ebd4246[m
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Wed May 11 16:21:12 2022 +0300
+
+    edit earning page
+
+[33mcommit 6ef9e3a9190f7c2a2c3a0052f5119d9687159dc3[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 11 16:11:47 2022 +0300
+
+    Login response model is changed, and asset registration some part done
+
+[33mcommit c5d8e07078f84819a2c7393e34932311fd7000ae[m
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Wed May 11 14:29:42 2022 +0300
+
+    Add AssetManagebloc to earning page
+
+[33mcommit 12ce1e7c3d7956e78e54a8c5b4e145a6439488fb[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 11 11:25:33 2022 +0300
+
+    add asset  one music is done
+
+[33mcommit 15680d5c1be51d3aa4d661b8d8809e4d083f4bd2[m
+Author: Kelkias Emana <kejeto@yahoo.com>
+Date:   Wed May 11 10:15:13 2022 +0300
+
+    Added Earning pages
+
+[33mcommit 9a09f3599415c3ad3bf6d80b91bd372714cd4398[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Wed May 11 09:54:18 2022 +0300
+
+    mark all read updated
+
+[33mcommit 9908b7a7d8646ad2e54262a2a46cbdafe751b2f4[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Wed May 11 09:44:26 2022 +0300
+
+    count unread edit
+
+[33mcommit cae09d9a04dcc99afd26eac0f45a31f724737178[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Wed May 11 09:44:06 2022 +0300
+
+    notification page markall read and count unread
+
+[33mcommit 1a124af5e4bb6c0045b587e5e2b86b715d711d3c[m
+Merge: cc31908 d9bda8a
+Author: nty <nathan1102@gmail.com>
+Date:   Tue May 10 18:58:29 2022 +0300
+
+    Merge remote-tracking branch 'origin/asset_management' into asset_management
+
+[33mcommit cc31908cd26e1175ec538d1a646c1f10c13a9b2a[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue May 10 18:58:13 2022 +0300
+
+    asset register final stage
+
+[33mcommit d9bda8a5994a82653272ca1e8d95d2bf459bc991[m
+Merge: c4d1061 83847e7
+Author: John21 <joguyjohna@gmail.com>
+Date:   Tue May 10 15:22:11 2022 +0300
+
+    Merge branches 'asset_management' and 'asset_management' of gitlab.com:2ftimeplc/2fflutter/cncm-flutter-project into asset_management
+
+[33mcommit c4d1061fdb837e3b55f20985cfdd104867051173[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Tue May 10 15:20:27 2022 +0300
+
+    badges package add
+
+[33mcommit bbb6ec243a05f101905b0ad5310e45f52da13c73[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Tue May 10 15:18:49 2022 +0300
+
+    package add
+
+[33mcommit 91c6deeb51e064e256ffa168343d83c3f0635d64[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Tue May 10 15:17:43 2022 +0300
+
+    notification repository
+
+[33mcommit 6c1e2253627c597a621de073f1a89709eeb5bee0[m
+Merge: 4bd8250 c04775a
+Author: John21 <joguyjohna@gmail.com>
+Date:   Tue May 10 15:17:29 2022 +0300
+
+    Merge branches 'notification_management' and 'notification_management' of gitlab.com:2ftimeplc/2fflutter/cncm-flutter-project into notification_management
+
+[33mcommit 4bd8250e60204789245590d21b9dfaac1774244f[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Tue May 10 15:12:11 2022 +0300
+
+    adding badges package on pubspec.yaml
+
+[33mcommit cf3e2d3a6b54b0c8beaf4c51f69e4839459b51a4[m
+Merge: 83847e7 c04775a
+Author: nty <nathan1102@gmail.com>
+Date:   Tue May 10 14:37:42 2022 +0300
+
+    Merge branch 'notification_management' into asset_management
+
+[33mcommit c04775a691b6722113278f1eb5a4d3abf84d87fc[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue May 10 14:35:03 2022 +0300
+
+    notification service and repository updated
+
+[33mcommit 83847e7d3ed332d543919ec53001b3d2ab7d4da9[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue May 10 14:24:50 2022 +0300
+
+    search user on the way
+
+[33mcommit 368b7085b02b00544273ef6b96dba595e637dbb5[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Tue May 10 14:24:06 2022 +0300
+
+    update notification
+
+[33mcommit 8ed5be9259b27473f349d8ead97ea1e72479d37c[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Tue May 10 14:23:53 2022 +0300
+
+    update
+
+[33mcommit 63ecd5a73308311214993fe06d2114bd64791f5b[m
+Merge: 32a9df1 683f23c
+Author: John21 <joguyjohna@gmail.com>
+Date:   Tue May 10 11:59:45 2022 +0300
+
+    Merge remote-tracking branch 'origin/asset_management' into notification_management
+
+[33mcommit 32a9df1aed3fa207aebe72639c04329e4fbf0ec4[m
+Merge: 2182d75 eb84d51
+Author: John21 <joguyjohna@gmail.com>
+Date:   Tue May 10 11:58:17 2022 +0300
+
+    Merge branch 'asset_management' into notification_management
+
+[33mcommit 2182d75beb1a1336dacc4482f9d0ac0a89aed9aa[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Tue May 10 11:57:09 2022 +0300
+
+    notificaytion on the way
+
+[33mcommit d87a1c62c69eb62fb9bdf4702fef9c9bf47cb5eb[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Tue May 10 10:08:17 2022 +0300
+
+    edited notification page
+
+[33mcommit 683f23c0320300929490da868b6c973058facaab[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue May 10 09:23:31 2022 +0300
+
+    membership page navigation re done
+
+[33mcommit 7d403b6464910a755837e70e37fbca4aef2679a2[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Tue May 10 01:24:02 2022 +0300
+
+    membership payment history page navigation done
+
+[33mcommit 9e89d5dd55f795e78e49dc009e542202dde9f517[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Tue May 10 01:05:39 2022 +0300
+
+    membership payment bloc is done
+
+[33mcommit e1d82229c0747fac56b843065c9312de37a850b1[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Tue May 10 00:29:24 2022 +0300
+
+    membership payment is service and respository done
+
+[33mcommit 1a2933ef852b1048f14aeee6253c56e40f962d1d[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Tue May 10 00:04:44 2022 +0300
+
+    some error fixes
+
+[33mcommit f4274a9c08d74d8d8c4052feba103e1e8da0a6ae[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Tue May 10 00:03:25 2022 +0300
+
+    user search bloc done
+
+[33mcommit 04edc143b74e5a9aebc52b004e22738100d69f90[m
+Author: nty <nathan1102@gmail.com>
+Date:   Mon May 9 19:27:03 2022 +0300
+
+    search user on the way
+
+[33mcommit bf09c54db92498879594d771b6147f62b9bff6fb[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Mon May 9 15:33:19 2022 +0300
+
+    notificaiton page edited
+
+[33mcommit 37aad7459339ebcb468a6902eaa8794b41293093[m
+Author: nty <nathan1102@gmail.com>
+Date:   Mon May 9 14:38:00 2022 +0300
+
+    asset add on the way
+
+[33mcommit a0bed966abc44f88c6752494eb3fd5a3512ddc41[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Mon May 9 14:35:34 2022 +0300
+
+    notification_management
+
+[33mcommit eb84d51954f5abc5c93f62cb1c5380e0e76e2d0d[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Mon May 9 14:21:29 2022 +0300
+
+    delete import dart:ffi from local_storage_servie
+
+[33mcommit 247e1006034a45f60b53b6eed8a312b4faefb60e[m
+Merge: e822289 12e4607
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Mon May 9 03:18:58 2022 +0300
+
+    Merge remote-tracking branch 'origin/asset_management' into asset_management
+    
+    # Conflicts:
+    #       lib/presentation/assets_manager/pages/add_assets_page.dart
+
+[33mcommit e822289e8aa338410cbe74099adc930ca9cd8ded[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Mon May 9 03:18:18 2022 +0300
+
+    add asset for music ui and state is ended
+
+[33mcommit 5bfdeecadfdfddeb8cfaf28c4e89fd98ff6cca28[m
+Author: John21 <joguyjohna@gmail.com>
+Date:   Sat May 7 21:06:44 2022 +0300
+
+    remove import 'dart:ffi';
+
+[33mcommit 12e4607e9c8841ec72f4dc77d7969712a983e29e[m
+Author: nty <nathan1102@gmail.com>
+Date:   Sat May 7 15:52:04 2022 +0300
+
+    asset managemet create separate fields
+
+[33mcommit eeec9798cb94eab8daacdbc7450357a1d32d09c9[m
+Author: nty <nathan1102@gmail.com>
+Date:   Sat May 7 14:26:52 2022 +0300
+
+    changes in the asset management page is done
+
+[33mcommit 5af3f3c48d499ef69810f50168676f793e7ff3a4[m
+Author: Yohannes Tesfahe <joguyjohna@gmail.com>
+Date:   Sat May 7 14:02:19 2022 +0300
+
+    update pub
+
+[33mcommit 0e359d628688c4dd17e2151301ce4fbd9ede0eb3[m
+Author: nty <nathan1102@gmail.com>
+Date:   Sat May 7 09:30:21 2022 +0300
+
+    earnings page navigation is done
+
+[33mcommit 98ff6e368140587b05e7f8e89402f6a4081b35c5[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Sat May 7 01:46:14 2022 +0300
+
+    add music is in the way of fixing some controller problem
+
+[33mcommit ba1da2360bd9776a7e5b2614d96c7b320d34ab94[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Sat May 7 00:43:02 2022 +0300
+
+    add music is in the way of fixing
+
+[33mcommit bdc9f88b6515d945c9e06bdbdc12ad364941c3b8[m
+Author: nty <nathan1102@gmail.com>
+Date:   Fri May 6 18:16:59 2022 +0300
+
+    asset page on the way
+
+[33mcommit 2c64f0849864ca7479ec32af3eb6a25fc4ac808d[m
+Author: nty <nathan1102@gmail.com>
+Date:   Fri May 6 17:27:54 2022 +0300
+
+    dynamic text field for contributtor is ended
+
+[33mcommit 170a5b9cbaaf9c4649a151e8527db83c9f7839c8[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Fri May 6 01:26:38 2022 +0300
+
+    asset ui contriubutor fixeds height
+
+[33mcommit 0a98452c5e223aa46555a304c00d5cdd9b738010[m
+Author: nty <nathan1102@gmail.com>
+Date:   Thu May 5 19:37:20 2022 +0300
+
+    asset adding on the way
+
+[33mcommit 730c9e31835f43d4e1bca39466c7de27cf44f110[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 4 17:39:01 2022 +0300
+
+    asset mangement model and ui changed
+
+[33mcommit c64ff9b124be55529b7244926be6308a7ce3098e[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 4 11:52:31 2022 +0300
+
+    profile page font and icon color change
+
+[33mcommit c836a3eda4c555570091220f2137b7e492f4b1dc[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 4 11:44:22 2022 +0300
+
+    asset detail page is done
+
+[33mcommit 6381ac3135dbf7cd4f5f106402670d9ddde5c95c[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 4 10:25:59 2022 +0300
+
+    logout bug fix and asset detail page on the way
+
+[33mcommit 4b9fcfc0127ae89fb7bd0e38c10c689b6d108b0e[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed May 4 09:18:31 2022 +0300
+
+    constant names changed
+
+[33mcommit 9840803363b1011849be9ab36f70921027c94214[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue May 3 19:54:40 2022 +0300
+
+    finishing with asset list
+
+[33mcommit 8a4a943df0416c49b02149da40d7cedab24434c0[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue May 3 16:13:31 2022 +0300
+
+    loading asset in the home page is done
+
+[33mcommit 29673c3966b9b8a16c1972a544b6b5343e3a21ef[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue May 3 15:17:52 2022 +0300
+
+    video detail page is added
+
+[33mcommit 1cd98761d1aef86619807fc300cfae29bff7b577[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue May 3 14:15:59 2022 +0300
+
+    feed loading and youtube playing is done
+
+[33mcommit 68bdb9acdbec9ad5d8ee3b143b22ab9f1a83eb12[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue May 3 09:05:46 2022 +0300
+
+    asset music and film registeration Ui from hp_asset_management is added
+
+[33mcommit c3275c24dcbbdacf4c58deff1f1b673ff99f778b[m
+Author: nty <nathan1102@gmail.com>
+Date:   Sat Apr 30 16:11:21 2022 +0300
+
+    asset service and repository is added
+
+[33mcommit 2648eef5e5ba606b46b9d4056850d144ab0d094f[m
+Author: nty <nathan1102@gmail.com>
+Date:   Sat Apr 30 15:26:34 2022 +0300
+
+    login page ui and button state is changed
+
+[33mcommit 1e5d61148a3b5f598e35523c4afef1bcf287272f[m
+Author: nty <nathan1102@gmail.com>
+Date:   Sat Apr 30 14:52:22 2022 +0300
+
+    asset add route and dialog state is added
+
+[33mcommit c81567cba91b9f99c34aabe249d56e8647719744[m
+Author: nty <nathan1102@gmail.com>
+Date:   Sat Apr 30 14:39:47 2022 +0300
+
+    Asset types added
+
+[33mcommit 3f46b4f427659ddc5049d83841a3003a5c300afe[m
+Author: nty <nathan1102@gmail.com>
+Date:   Sat Apr 30 13:44:38 2022 +0300
+
+    dialog added for asset added
+
+[33mcommit fe2c36467ed33a2a1639b1d4abec3d888de6a74c[m
+Author: nty <nathan1102@gmail.com>
+Date:   Sat Apr 30 09:39:33 2022 +0300
+
+    commit after build apk
+
+[33mcommit da6e7d47870e21162abb3b783b3ccdf9c7285e1d[m[33m ([m[1;31morigin/register[m[33m, [m[1;31morigin/homepage[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: nty <nathan1102@gmail.com>
+Date:   Fri Apr 29 20:01:36 2022 +0300
+
+    registeration error handling error message
+
+[33mcommit a5c1144aca070026110167d8a9ff359f635d4275[m
+Author: nty <nathan1102@gmail.com>
+Date:   Fri Apr 29 15:12:37 2022 +0300
+
+    registeration image done
+
+[33mcommit 743ba67bcc79a6018abff9b5819459cc2ea341ba[m
+Author: nty <nathan1102@gmail.com>
+Date:   Fri Apr 29 11:08:09 2022 +0300
+
+    register page some modification
+
+[33mcommit 0fcdd50403896fabb42a13b82a89c7ebb42cbed1[m
+Author: nty <nathan1102@gmail.com>
+Date:   Fri Apr 29 10:07:28 2022 +0300
+
+    splash screeen done
+
+[33mcommit 5122d37bdc19e44484f8e8778d68b50fefc7bfd3[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Fri Apr 29 00:27:53 2022 +0300
+
+    welcome screen page is done
+
+[33mcommit 4b85f298b8c7d7d208b1a40c70d4a2ef89ed5f37[m
+Author: nty <nathan1102@gmail.com>
+Date:   Thu Apr 28 19:34:39 2022 +0300
+
+    register is ended
+
+[33mcommit eabeef3ffe3875d9d92807464cba196e3388419b[m
+Author: nty <nathan1102@gmail.com>
+Date:   Thu Apr 28 18:09:52 2022 +0300
+
+    first page register is done
+
+[33mcommit d4dd1514ec007d70c07aa3d4111fb1b128ac25ca[m
+Author: nty <nathan1102@gmail.com>
+Date:   Thu Apr 28 15:17:02 2022 +0300
+
+    register page is on the way
+
+[33mcommit 210ff6737d97d8e15addb243ff2db4c62f4bcb7e[m
+Author: nty <nathan1102@gmail.com>
+Date:   Thu Apr 28 09:26:43 2022 +0300
+
+    date picker added
+
+[33mcommit 46379276098fd6ee0cceae8140566878c3ccec80[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Thu Apr 28 00:50:29 2022 +0300
+
+    association bloc consumer added
+
+[33mcommit ead6091574b9a38553c7189853498c328b21f3d2[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed Apr 27 18:08:19 2022 +0300
+
+    bloc consumer added for department and title
+
+[33mcommit 73f341fda64aa01a6197c1868fee4265331d81c3[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed Apr 27 15:34:04 2022 +0300
+
+    register dependency injection is done
+
+[33mcommit 249ebdf13c25ccf5cbc5a8ff66ba58733bdf4773[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed Apr 27 15:14:36 2022 +0300
+
+    tite,department,banklist, and association bloc added
+
+[33mcommit 9cba95b59f0ea9d348bc73c0411f3a50c293dda3[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed Apr 27 11:14:02 2022 +0300
+
+    image picking is successfuly done
+
+[33mcommit 54b17a3b59859caa6d008f0663c64e5eca268d12[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed Apr 27 10:51:37 2022 +0300
+
+    titles departments and associations are added
+
+[33mcommit 37549e9559bc5f3c30d9b2b901b5c2274dee3813[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed Apr 27 10:24:00 2022 +0300
+
+    department aassociation and title service and repository is added
+
+[33mcommit 2d46834deec9d7e506c96bfd4428e9f5e15b0dc1[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 26 17:55:02 2022 +0300
+
+    custom stepper clean image picker on the way
+
+[33mcommit 81c5cfae507fd887761dbced6d95dceca59f2eaf[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 26 17:20:41 2022 +0300
+
+    custom stepper clean up added
+
+[33mcommit aab49d3b58cfe1999b9535054f4a1a39c633d4d5[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 26 16:44:57 2022 +0300
+
+    custom stepper added
+
+[33mcommit afb471e36753b07f6eeb7867177a653e638433f1[m[33m ([m[1;31morigin/earnigs[m[33m)[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 26 14:31:54 2022 +0300
+
+    new file and earning page chart added
+
+[33mcommit 3684296f99d1038a87d1aa15c3046f9b20042656[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 26 10:24:01 2022 +0300
+
+    earning page horizontal button state added
+
+[33mcommit 09b48dc8b7bf8a280056101672eef1734d364cfc[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 26 09:51:39 2022 +0300
+
+    horizontal buttons added
+
+[33mcommit 64f188b8fd5b7e4580d8d0e8057c60d4ae56dd0b[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 26 09:37:18 2022 +0300
+
+    earnings page ui fixes
+
+[33mcommit 8c4f84218e3b613f058732d5ce3ac31c59f75216[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Tue Apr 26 00:40:21 2022 +0300
+
+    earning page ui is added
+
+[33mcommit 038e4cd1a000988236ce7465f43d1f85fd5a6de8[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Sat Apr 23 18:07:34 2022 +0300
+
+    earnings page is working on it
+
+[33mcommit 71d00467225c841e9d39137d402ff9b87d4cfa5e[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Sat Apr 23 11:29:49 2022 +0300
+
+    syncfusion library added
+
+[33mcommit eabba2d228155e04b05e456010d4766cb54a8fbe[m
+Author: nty <nathan1102@gmail.com>
+Date:   Thu Apr 21 16:44:11 2022 +0300
+
+    blog loading and asset datas formed
+
+[33mcommit 903c4907cf55f3af1b8a74f6213684f061f98170[m
+Author: nty <nathan1102@gmail.com>
+Date:   Thu Apr 21 10:15:30 2022 +0300
+
+    trailer provider and youtube video is added
+
+[33mcommit 7ef2b549e2737aab26117ff5a63521ebcbf7829d[m
+Merge: 35c191c 9cff1c9
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Wed Apr 20 23:43:56 2022 +0300
+
+    Merge branch 'asset_management' into homepage
+
+[33mcommit 9cff1c96bf8facaa3787b34918cb29d1e4d89936[m
+Merge: 007e628 fd81115
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Wed Apr 20 23:22:30 2022 +0300
+
+    Merge remote-tracking branch 'origin/asset_management' into asset_management
+
+[33mcommit 35c191c340c2ae3f0c504b08079dcbf765b53f73[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed Apr 20 18:33:42 2022 +0300
+
+    loading trailer is added
+
+[33mcommit ec71c8f0260df1c5e3279e5865857a112fb7c9d3[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed Apr 20 16:37:34 2022 +0300
+
+    blog load fix, and trailer loading api added
+
+[33mcommit fd8111554a3d32ed78d3596cbd0529104bf43826[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed Apr 20 10:25:19 2022 +0300
+
+    news feed api calling and block changed
+
+[33mcommit 007e628625a5826c0206ed6d3edaa5b763051f87[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Wed Apr 20 00:50:31 2022 +0300
+
+    asset detail ui added
+
+[33mcommit f4f4953829fe397c29471a45195cba3f01ba9b37[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 19 20:00:12 2022 +0300
+
+    asset detail page is on the way
+
+[33mcommit 28b277692be7650b6bf81c3b32fa52ad9aa43c0c[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 19 17:03:32 2022 +0300
+
+    asset page add asset button and asset list on the way
+
+[33mcommit a16c3e86b7fe8cfb655472e5661dbb89efa26d51[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 19 15:15:39 2022 +0300
+
+    asset manage page and bloc started
+
+[33mcommit c06fc6cc1c04113a52e3f00b99d79c4e814cdbab[m[33m ([m[1;31morigin/profile_page[m[33m)[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 19 15:04:54 2022 +0300
+
+    cache image network librabry added
+
+[33mcommit 7340bdb6a6b39d8b23b55756120a04dfb5f0383c[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 19 14:38:13 2022 +0300
+
+    payment history and membership payment UI added
+
+[33mcommit fd586172c8bbd11ca0e02a530850cf8c6d8e575a[m[33m ([m[1;31morigin/feature_test_auth[m[33m)[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 19 13:22:08 2022 +0300
+
+    login page fixes and payment history page added
+
+[33mcommit f2efb91243545c43aa066c2202d67b126bffc6f2[m
+Author: nty <nathan1102@gmail.com>
+Date:   Mon Apr 18 19:27:41 2022 +0300
+
+    adding shard prefrence longin method
+
+[33mcommit 70e4433d9fd7a93443ec57efb8d9ca8125c1d5dd[m
+Author: nty <nathan1102@gmail.com>
+Date:   Mon Apr 18 18:50:49 2022 +0300
+
+    folder and some UI updated
+
+[33mcommit f081c9a5fd434ccd5522fa5eec7c6b5dd8355bc4[m
+Author: nty <nathan1102@gmail.com>
+Date:   Mon Apr 18 18:34:18 2022 +0300
+
+    profile detail is changed
+
+[33mcommit 0ffebab263b802c5a0ed0c19a16bbadd819e8c27[m
+Author: nty <nathan1102@gmail.com>
+Date:   Mon Apr 18 17:14:50 2022 +0300
+
+    new login user model changed and new folder is added
+
+[33mcommit 005ba6e0faee41847712ccb5e6f626659880eb2e[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Mon Apr 18 01:48:38 2022 +0300
+
+    login fix on the way
+
+[33mcommit f99253c64f9a8f50711a3de998d1e3812c6a7eea[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Mon Apr 18 01:12:51 2022 +0300
+
+    payment history page added
+
+[33mcommit 1fc75c6f167e27330ef618260b49be3f5add37bf[m
+Author: nty <nathan1102@gmail.com>
+Date:   Sat Apr 16 14:11:21 2022 +0300
+
+    password page is added
+
+[33mcommit 334a24e3b815384be5c74e6fffc1c93be625fa61[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Sat Apr 16 01:03:57 2022 +0300
+
+    add password page
+
+[33mcommit e8a4292acde4fbe508a760589573eed76abcb3c6[m
+Author: nty <nathan1102@gmail.com>
+Date:   Fri Apr 15 18:23:40 2022 +0300
+
+    drop down for department is added
+
+[33mcommit 3d3a6fc5e4cf3782bc8f56663e7da26527014b29[m
+Author: nty <nathan1102@gmail.com>
+Date:   Fri Apr 15 17:22:49 2022 +0300
+
+    register argument and drop down
+
+[33mcommit a264bd729c01be4e854a157c7b759a519391170d[m
+Author: nty <nathan1102@gmail.com>
+Date:   Fri Apr 15 11:53:54 2022 +0300
+
+    json decoding error fixes and internet connectivity serivice added
+
+[33mcommit 3bfe195d553847f364015596c5bbf739aaebd850[m
+Author: nty <nathan1102@gmail.com>
+Date:   Thu Apr 14 19:51:55 2022 +0300
+
+    shared preference is added
+
+[33mcommit 0255e504b16a131a4a1e48b3907c09542fcb081e[m
+Author: Elias Ayele <eliasey11@gmail.com>
+Date:   Thu Apr 14 08:28:54 2022 +0300
+
+    dartz package added
+
+[33mcommit d5cc03ad92f7e1b3aef32a629ba1133f6c5b9b3b[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed Apr 13 17:40:18 2022 +0300
+
+    dropdown added
+
+[33mcommit 9ebcc378403a81098cdbec941d0dfdd7d823ffeb[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed Apr 13 16:21:42 2022 +0300
+
+    register page 1 added
+
+[33mcommit 1615360c2208d6c9ceb13592510adc40a89d3131[m
+Author: nty <nathan1102@gmail.com>
+Date:   Wed Apr 13 10:45:56 2022 +0300
+
+    util added
+
+[33mcommit a05015d52d3468b5030c37c3945ef493c9dc37e0[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 12 17:42:49 2022 +0300
+
+    api base added
+
+[33mcommit 23f6ee6d797d75a2ded3ed4519fd91c23b8f1967[m
+Author: nty <nathan1102@gmail.com>
+Date:   Tue Apr 12 16:23:33 2022 +0300
+
+    package upgrade and folder strcture changed
+
+[33mcommit 86cfd964561fb3cef0d1a610b0e3fa7f63e61095[m
+Author: Ermias Gashu <gearmias@gmail.com>
+Date:   Mon Apr 11 14:30:16 2022 +0300
+
+    init commit
